@@ -1,4 +1,659 @@
-   {
-     "mods": [],
-     "resourcepacks": []
-   }
+{
+  "mods": [
+     {
+      "name": "abridged-2.0.0-forge-1.20.1",
+      "file": "abridged-2.0.0-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/abridged-2.0.0-forge-1.20.1.jar",
+      "sha256": "d64f9c5d70aa808771770cc7b7f4490f225e646db3c81ae0080cbc6b4a5429af"
+    },
+    {
+      "name": "AdvancedLootInfo-forge-1.20.1-1.12.0",
+      "file": "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
+      "sha256": "6a0b368a0c19476ce1c6e73ecd923855e5ef45834077dea1ae0ca94820ce8eb8"
+    },
+    {
+      "name": "AdvancementPlaques-1.20.1-forge-1.6.9",
+      "file": "AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "sha256": "537f84f1153369d61878965846a8ead7c5eae3a6ad917b04c02521ad76182ad2"
+    },
+    {
+      "name": "alltheleaks-1.1.1+1.20.1-forge",
+      "file": "alltheleaks-1.1.1+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/alltheleaks-1.1.1%2B1.20.1-forge.jar",
+      "sha256": "7b8e945da294b745e6aed9f88f28e232a767e032d7c2b8137a8ef36421d9fb33"
+    },
+    {
+      "name": "appleskin-forge-mc1.20.1-2.5.1",
+      "file": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
+    },
+    {
+      "name": "architectury-9.2.14-forge",
+      "file": "architectury-9.2.14-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+    },
+    {
+      "name": "ATi Structures Vanilla V1.4.5",
+      "file": "ATi Structures Vanilla V1.4.5.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/ATi%20Structures%20Vanilla%20V1.4.5.jar",
+      "sha256": "cc64b50e80c03bf5e0abd1c6ba76c87397b972adcf678de87d81d85dd7244098"
+    },
+    {
+      "name": "atmospheric-1.20.1-6.1.1",
+      "file": "atmospheric-1.20.1-6.1.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/atmospheric-1.20.1-6.1.1.jar",
+      "sha256": "a844bc2dcba6381051c64e04ea6388465ce97c53f1410b59f5dd4a91f5ea476f"
+    },
+    {
+      "name": "awesomedungeon-forge-1.20.1-3.2.0",
+      "file": "awesomedungeon-forge-1.20.1-3.2.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/awesomedungeon-forge-1.20.1-3.2.0.jar",
+      "sha256": "7d1504713f1623e75d01d4d986b1b4bcafc4bfd69ab20bf4ae625f8c4da851bd"
+    },
+    {
+      "name": "balm-forge-1.20.1-7.3.41-all",
+      "file": "balm-forge-1.20.1-7.3.41-all.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/balm-forge-1.20.1-7.3.41-all.jar",
+      "sha256": "053205e3dac0d19fcff4aa3d4f5e4df48d3398b54d446d65fb918c520429e11a"
+    },
+    {
+      "name": "BiomesOPlenty-forge-1.20.1-19.0.0.96",
+      "file": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "sha256": "330f482487ac3135557b6e898d7e1ae5330321e9cfd5ba63e13a16cf2e8d8b98"
+    },
+    {
+      "name": "block_factorys_bosses-2.1.2-forge-1.20.1",
+      "file": "block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+      "sha256": "8c61087aa483f90861451682519582e03fa76e773d855e35180a8ed3428938bc"
+    },
+    {
+      "name": "blueprint-1.20.1-7.1.4",
+      "file": "blueprint-1.20.1-7.1.4.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/blueprint-1.20.1-7.1.4.jar",
+      "sha256": "41152bfac14637edbf3dd868e92c19a48c6c0a25513a2ecdada2366593c883c0"
+    },
+    {
+      "name": "born_in_chaos_[Forge]1.20.1_1.7.5",
+      "file": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar",
+      "sha256": "41152bfac14637edbf3dd868e92c19a48c6c0a25513a2ecdada2366593c883c0"
+    },
+    {
+      "name": "brutalbosses-1.20.1-8.5",
+      "file": "brutalbosses-1.20.1-8.5.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/brutalbosses-1.20.1-8.5.jar",
+      "sha256": "8db8565e5e9c5be91a77fc3d44e3e3b4a1e0ec17558d9211545208e3f68cfd87"
+    },
+    {
+      "name": "cfm-forge-1.20.1-7.0.0-pre36",
+      "file": "cfm-forge-1.20.1-7.0.0-pre36.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
+      "sha256": "5fdbc245003d2cb46b92eb9120d7bca7f03422628daed24c818baa195efe8663"
+    },
+    {
+      "name": "chat_heads-0.15.1-forge-1.20",
+      "file": "chat_heads-0.15.1-forge-1.20.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/chat_heads-0.15.1-forge-1.20.jar",
+      "sha256": "f60da490da005f1a1a03104262de3a94968b8a51a55fbc2949cacb63d6cc6bec"
+    },
+    {
+      "name": "cinematic_respawn-1.20.1-forge-1.2.0",
+      "file": "cinematic_respawn-1.20.1-forge-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/cinematic_respawn-1.20.1-forge-1.2.0.jar",
+      "sha256": "c2fa8a9224d619d6a1df716cb7f91abf61817d42bca31c69808c48f90705a473"
+    },
+    {
+      "name": "cloth-config-11.1.136-forge",
+      "file": "cloth-config-11.1.136-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+    },
+    {
+      "name": "cobweb-forge-1.20.1-1.0.1",
+      "file": "cobweb-forge-1.20.1-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/cobweb-forge-1.20.1-1.0.1.jar",
+      "sha256": "93771b365320a08d0516633afb210f36f5aa20c0906dc4f1ead394250f660736"
+    },
+    {
+      "name": "connectivity-1.20.1-7.6",
+      "file": "connectivity-1.20.1-7.6.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/connectivity-1.20.1-7.6.jar",
+      "sha256": "fbfa83da5a6f5717d34068af5283ebbb9f9a2474482bc818f588cd1bdbc11acd"
+    },
+    {
+      "name": "coroutil-forge-1.20.1-1.3.7",
+      "file": "coroutil-forge-1.20.1-1.3.7.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "sha256": "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f"
+    },
+    {
+      "name": "corpse-forge-1.20.1-1.0.23",
+      "file": "corpse-forge-1.20.1-1.0.23.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/corpse-forge-1.20.1-1.0.23.jar",
+      "sha256": "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c"
+    },
+    {
+      "name": "create-1.20.1-6.0.8",
+      "file": "create-1.20.1-6.0.8.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/create-1.20.1-6.0.8.jar",
+      "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0"
+    },
+    {
+      "name": "CreativeCore_FORGE_v2.12.39_mc1.20.1",
+      "file": "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+      "sha256": "3565ddea132785a044ddfca670610a870c976e52d47a957d0a5f1db78563d046"
+    },
+    {
+      "name": "cupboard-1.20.1-3.5",
+      "file": "cupboard-1.20.1-3.5.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/cupboard-1.20.1-3.5.jar",
+      "sha256": "68ac8d4df915d7610eca62edc7ad33e9fe6e938701766739a34f71abfc9bd20d"
+    },
+    {
+      "name": "curios-forge-5.14.1+1.20.1",
+      "file": "curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/curios-forge-5.14.1%2B1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+    },
+    {
+      "name": "deltaboxlib-forge-2.2.0+1.20.1",
+      "file": "deltaboxlib-forge-2.2.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/deltaboxlib-forge-2.2.0%2B1.20.1.jar",
+      "sha256": "610ea0d84d7f97c1c9a2ca7b2090214198f099e64e70006e2afc0ddf1f709cc0"
+    },
+    {
+      "name": "Dungeon Crawl-1.20.1-2.3.15",
+      "file": "Dungeon Crawl-1.20.1-2.3.15.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/Dungeon%20Crawl-1.20.1-2.3.15.jar",
+      "sha256": "71e1b8ceaf20c3102ae42ef2761ca47f30fe4cbd20ecbb687df2ce75d1785514"
+    },
+    {
+      "name": "DungeonsArise-1.20.x-2.1.58-release",
+      "file": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/DungeonsArise-1.20.x-2.1.58-release.jar",
+      "sha256": "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90"
+    },
+    {
+      "name": "dynamiclights-1.20.1.2",
+      "file": "dynamiclights-1.20.1.2.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/dynamiclights-1.20.1.2.jar",
+      "sha256": "ccde9eb51e4a56016b8e0d817d4a8afdc7779f25749cc4bdb07166e296853fd7"
+    },
+    {
+      "name": "EasyMagic-v8.0.1-1.20.1-Forge",
+      "file": "EasyMagic-v8.0.1-1.20.1-Forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/EasyMagic-v8.0.1-1.20.1-Forge.jar",
+      "sha256": "235a2b0be24bc83a89253e0ee4fc973abfc7cc7caed0fdd698dd139ba91ec367"
+    },
+    {
+      "name": "easy_npc-forge-1.20.1-7.10.0",
+      "file": "easy_npc-forge-1.20.1-7.10.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/easy_npc-forge-1.20.1-7.10.0.jar",
+      "sha256": "b9bf16706b7d2398559248056bc5c08170a49bb0eaf86dffe4d661f418ab4087"
+    },
+    {
+      "name": "easy_npc_bundle-forge-1.20.1-7.10.0",
+      "file": "easy_npc_bundle-forge-1.20.1-7.10.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/easy_npc_bundle-forge-1.20.1-7.10.0.jar",
+      "sha256": "fa8b28bafd5e091b437dbbc42979d5240f415ef0e00f3ffa55d0289bef7fb206"
+    },
+    {
+      "name": "easy_npc_config_ui-forge-1.20.1-7.10.0",
+      "file": "easy_npc_config_ui-forge-1.20.1-7.10.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/easy_npc_config_ui-forge-1.20.1-7.10.0.jar",
+      "sha256": "6fe8327f8bb39da26a910953e6e93ce54c9e898a5fb9cb292f92097d333220cb"
+    },
+    {
+      "name": "FarmersDelight-1.20.1-1.2.11",
+      "file": "FarmersDelight-1.20.1-1.2.11.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/FarmersDelight-1.20.1-1.2.11.jar",
+      "sha256": "9a2db05541f07e15a81d514f4f47627f1c738d0464c1885765aa460117909318"
+    },
+    {
+      "name": "FazRoleplayClothes-1.20.1-2.4",
+      "file": "FazRoleplayClothes-1.20.1-2.4.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/FazRoleplayClothes-1.20.1-2.4.jar",
+      "sha256": "5f619b978459a6f0f941fea175e46dfe43579ab2ad738f4f79305f5acd024c78"
+    },
+    {
+      "name": "framework-forge-1.20.1-0.8.0",
+      "file": "framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/framework-forge-1.20.1-0.8.0.jar",
+      "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0"
+    },
+    {
+      "name": "freecam-forge-1.2.1+1.20",
+      "file": "freecam-forge-1.2.1+1.20.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/freecam-forge-1.2.1%2B1.20.jar",
+      "sha256": "8d7778cb5d181e981cb6d7c1015e3597cd5a88a18b2924386a6f8790abb239b4"
+    },
+    {
+      "name": "geckolib-forge-1.20.1-4.8.4",
+      "file": "geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
+    },
+    {
+      "name": "GlitchCore-forge-1.20.1-0.0.1.1",
+      "file": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha256": "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61"
+    },
+    {
+      "name": "globalxp-forge-1.20.1-1.12",
+      "file": "globalxp-forge-1.20.1-1.12.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/globalxp-forge-1.20.1-1.12.jar",
+      "sha256": "c06b67f0ee4a12cdcfd5048112049cadeaed6b374f8b4a4c098c6f217bf0ba5d"
+    },
+    {
+      "name": "gml-4.0.11-all",
+      "file": "gml-4.0.11-all.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/gml-4.0.11-all.jar",
+      "sha256": "4f1014d242c944771d798206c2d38d44d9d77148c4bb7a1f141aa405e7afd9d4"
+    },
+    {
+      "name": "grand-teleport-forge-1.20.1-forge-build300",
+      "file": "grand-teleport-forge-1.20.1-forge-build300.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/grand-teleport-forge-1.20.1-forge-build300.jar",
+      "sha256": "5c87ce7e371bc2dbcbcbe1b86bcaa5bc0589480cadf9dd795a7154c99d2b71e9"
+    },
+    {
+      "name": "grim-kingdoms-lost-structures-ruins-vanilla-edition-v1.0.0 1.20+",
+      "file": "grim-kingdoms-lost-structures-ruins-vanilla-edition-v1.0.0 1.20+.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/grim-kingdoms-lost-structures-ruins-vanilla-edition-v1.0.0%201.20%2B.jar",
+      "sha256": "0816e8ab94723b8bdbeeac0c6b17fec9d5796822f4b688e239e4d99fb7752412"
+    },
+    {
+      "name": "harvest-with-ease-forge-1.20.1-9.4.0",
+      "file": "harvest-with-ease-forge-1.20.1-9.4.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/harvest-with-ease-forge-1.20.1-9.4.0.jar",
+      "sha256": "5391fde6854427d674ebce2ab572045c07e38f82e28702367198626624b8527b"
+    },
+    {
+      "name": "Iceberg-1.20.1-forge-1.1.25",
+      "file": "Iceberg-1.20.1-forge-1.1.25.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "sha256": "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3"
+    },
+    {
+      "name": "Immersive Vehicles-1.20.1-23.0.0",
+      "file": "Immersive Vehicles-1.20.1-23.0.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/Immersive%20Vehicles-1.20.1-23.0.0.jar",
+      "sha256": "c8370f60c61b58ca7ce01d0e90161ff26665118baceca8c8f71f644d91f96417"
+    },
+    {
+      "name": "immersiveoverlays-1.7.2+1.20.1-forge",
+      "file": "immersiveoverlays-1.7.2+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/immersiveoverlays-1.7.2%2B1.20.1-forge.jar",
+      "sha256": "0c91212ad5eb0de90614fdcece523788800fb98132c3be2ef44008df4764db21"
+    },
+    {
+      "name": "Incendium_1.20.x_v5.3.5",
+      "file": "Incendium_1.20.x_v5.3.5.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/Incendium_1.20.x_v5.3.5.jar",
+      "sha256": "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75"
+    },
+    {
+      "name": "inventoryhud.forge.1.20.1-3.4.26",
+      "file": "inventoryhud.forge.1.20.1-3.4.26.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/inventoryhud.forge.1.20.1-3.4.26.jar",
+      "sha256": "01d9a2d1e26fffff78eb47f3e4837189e7567dde849810b1bf6d278520c1e971"
+    },
+    {
+      "name": "Jade-1.20.1-Forge-11.13.2",
+      "file": "Jade-1.20.1-Forge-11.13.2.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "sha256": "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5"
+    },
+    {
+      "name": "jei-1.20.1-forge-15.20.0.129",
+      "file": "jei-1.20.1-forge-15.20.0.129.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/jei-1.20.1-forge-15.20.0.129.jar",
+      "sha256": "5e5af05aa082f5844c7b3ed0b3bd9374e160ae1914906f71d90c5656e4e80039"
+    },
+    {
+      "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1",
+      "file": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "sha256": "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b"
+    },
+    {
+      "name": "kotlinforforge-4.12.0-all",
+      "file": "kotlinforforge-4.12.0-all.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+    },
+    {
+      "name": "letsdo-bloomingnature-forge-1.0.12",
+      "file": "letsdo-bloomingnature-forge-1.0.12.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/letsdo-bloomingnature-forge-1.0.12.jar",
+      "sha256": "d55f72b24c4d5f3236b3754c1c9209757a4740771bc95a40406ad90022263488"
+    },
+    {
+      "name": "letsdo-furniture-forge-1.0.4",
+      "file": "letsdo-furniture-forge-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/letsdo-furniture-forge-1.0.4.jar",
+      "sha256": "814f0e6490e8b380dc36989a0e4953d72e9c4afddb116983f86baca509d85e6b"
+    },
+    {
+      "name": "libraryferret-forge-1.20.1-4.0.0",
+      "file": "libraryferret-forge-1.20.1-4.0.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "sha256": "355f5000b56d6f355338bd494fcdb822f36e29cf9e3c27ebcc7720402a804510"
+    },
+    {
+      "name": "lionfishapi-3.0",
+      "file": "lionfishapi-3.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/lionfishapi-3.0.jar",
+      "sha256": "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"
+    },
+    {
+      "name": "lithostitched-forge-1.20.1-1.4.11",
+      "file": "lithostitched-forge-1.20.1-1.4.11.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/lithostitched-forge-1.20.1-1.4.11.jar",
+      "sha256": "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
+    },
+    {
+      "name": "L_Enders_Cataclysm-3.31",
+      "file": "L_Enders_Cataclysm-3.31.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/L_Enders_Cataclysm-3.31.jar",
+      "sha256": "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362"
+    },
+    {
+      "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4",
+      "file": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "sha256": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
+    },
+    {
+      "name": "mes-1.4.6-1.20",
+      "file": "mes-1.4.6-1.20.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/mes-1.4.6-1.20.jar",
+      "sha256": "222bdb29ff0ac45712b40888b83a32bbda52b1e040e429b169c591c9a7d19a61"
+    },
+    {
+      "name": "minecraft-comes-alive-7.6.15+1.20.1-universal",
+      "file": "minecraft-comes-alive-7.6.15+1.20.1-universal.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/minecraft-comes-alive-7.6.15%2B1.20.1-universal.jar",
+      "sha256": "5a09c71c9e8c12887d802e623cb34a0809a38abc9667655b9b092d9f8386ebe1"
+    },
+    {
+      "name": "MoogsNetherStructures-1.20-2.0.2",
+      "file": "MoogsNetherStructures-1.20-2.0.2.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/MoogsNetherStructures-1.20-2.0.2.jar",
+      "sha256": "47654996f272b25c8f46f02f01d7dcfdf71dddaaf8752e0b180a7ead55283fc0"
+    },
+    {
+      "name": "MoogsVoyagerStructures-1.20-5.0.4",
+      "file": "MoogsVoyagerStructures-1.20-5.0.4.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/MoogsVoyagerStructures-1.20-5.0.4.jar",
+      "sha256": "7b9f7575a3781261dbb83ab1b07252a7a8dfe7f6cd5123923934dd7a396ef40d"
+    },
+    {
+      "name": "moogs_structures-1.20-1.20.4-3.0.2-forge",
+      "file": "moogs_structures-1.20-1.20.4-3.0.2-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/moogs_structures-1.20-1.20.4-3.0.2-forge.jar",
+      "sha256": "a06c6a15a38d37a5ddb5f325ec6487ed223575f1080e3106b902168ae1130f00"
+    },
+    {
+      "name": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge",
+      "file": "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
+      "sha256": "284e25e4b216bebf6aa2b3859bad7c0f47aa23281e658f0725484f994f85eac4"
+    },
+    {
+      "name": "moonlight-1.20-2.16.34-forge",
+      "file": "moonlight-1.20-2.16.34-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/moonlight-1.20-2.16.34-forge.jar",
+      "sha256": "007c05ae799417ca7aa26669c5d97be9dface5b6fc27aca4ca8031cafe4ddd6e"
+    },
+    {
+      "name": "MouseTweaks-forge-mc1.20.1-2.25.1",
+      "file": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
+    },
+    {
+      "name": "mowziesmobs-1.8.2",
+      "file": "mowziesmobs-1.8.2.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/mowziesmobs-1.8.2.jar",
+      "sha256": "e8ce1768cda6f1e1fadd2321c92921b473bd0cee45ba4b8387fb30f8326cb31c"
+    },
+    {
+      "name": "mru-1.0.33+1.20.1-forge",
+      "file": "mru-1.0.33+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/mru-1.0.33%2B1.20.1-forge.jar",
+      "sha256": "7d0adb0ea959c3429d49abf4ece977eb6f26c517c89c036e501dbec8e5c2c4c2"
+    },
+    {
+      "name": "MTS Official Pack-1.20.1-V28.2",
+      "file": "MTS Official Pack-1.20.1-V28.2.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/MTS%20Official%20Pack-1.20.1-V28.2.jar",
+      "sha256": "2667adb955b2f2975f370f005f4ddef97ac3ab0fce36b4b69bdd4c4c12c4dd85"
+    },
+    {
+      "name": "musicbox-forge-2.0.2+1.20.1",
+      "file": "musicbox-forge-2.0.2+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/musicbox-forge-2.0.2%2B1.20.1.jar",
+      "sha256": "f45110c820aeb56a7e0542c5f14979bae4985d08413cb70a5762fe722e7c35b6"
+    },
+    {
+      "name": "mythsandlegends-0.0.8.8",
+      "file": "mythsandlegends-0.0.8.8.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/mythsandlegends-0.0.8.8.jar",
+      "sha256": "b28000c2c595bb782d083a11590e899f52d20bc7203eb39e1dabd21dc519bc39"
+    },
+    {
+      "name": "naturalist-5.0pre3+forge-1.20.1",
+      "file": "naturalist-5.0pre3+forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/naturalist-5.0pre3%2Bforge-1.20.1.jar",
+      "sha256": "7c39dcbd49e60a11955d60545498815fd2a0f490172aff28d3bd43f07111b458"
+    },
+    {
+      "name": "Necronomicon-Forge-1.6.0+1.20.1",
+      "file": "Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/Necronomicon-Forge-1.6.0%2B1.20.1.jar",
+      "sha256": "403b23457288c624a55feb90d5e813c88c23a611bc42cda397c4bfac94b4c3a3"
+    },
+    {
+      "name": "NekosEnchantedBooks-1.19.3-2.0.3",
+      "file": "NekosEnchantedBooks-1.19.3-2.0.3.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/NekosEnchantedBooks-1.19.3-2.0.3.jar",
+      "sha256": "5bf73a759ba9f909321485b60f11e5340c6d522e27d48cabc606696111d37e0d"
+    },
+    {
+      "name": "OAmP-1.20.1-V2",
+      "file": "OAmP-1.20.1-V2.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/OAmP-1.20.1-V2.jar",
+      "sha256": "2a779a87f4654e380b27d50d8d94fbaaae73ec781f5209b68cf62f1b19867dde"
+    },
+    {
+      "name": "packetfixer-3.3.2-1.18-1.20.4-merged",
+      "file": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "sha256": "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce"
+    },
+    {
+      "name": "Paraglider-forge-20.1.3",
+      "file": "Paraglider-forge-20.1.3.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/Paraglider-forge-20.1.3.jar",
+      "sha256": "3528e4d424682a415ae97b9597e5ed0567e5a194b4aeb30ae364e962da43b36a"
+    },
+    {
+      "name": "ParCool-1.20.1-3.4.3.3",
+      "file": "ParCool-1.20.1-3.4.3.3.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/ParCool-1.20.1-3.4.3.3.jar",
+      "sha256": "2ddef8752b5a1428035b95f29e62c81e33b80d37851681e1b928d8a01615c6e7"
+    },
+    {
+      "name": "PlayerRevive_FORGE_v2.0.31_mc1.20.1",
+      "file": "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "sha256": "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb"
+    },
+    {
+      "name": "primal-1.1.6+1.20.1",
+      "file": "primal-1.1.6+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/primal-1.1.6%2B1.20.1.jar",
+      "sha256": "bfbeb4e2159381be06bee86c072da108887a1e4380e6495087895fa39aae3eb5"
+    },
+    {
+      "name": "puddleflood-1.1.5+1.20.1-forge",
+      "file": "puddleflood-1.1.5+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/puddleflood-1.1.5%2B1.20.1-forge.jar",
+      "sha256": "9ee0139ac0c2301c163d45c5e37111d4c581dd27f126417e6b6bec044df72011"
+    },
+    {
+      "name": "PuzzlesLib-v8.1.33-1.20.1-Forge",
+      "file": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "sha256": "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f"
+    },
+    {
+      "name": "refurbished_furniture-forge-1.20.1-1.0.20",
+      "file": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "sha256": "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
+    },
+    {
+      "name": "repurposed_structures-7.1.21+1.20.1-forge",
+      "file": "repurposed_structures-7.1.21+1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/repurposed_structures-7.1.21%2B1.20.1-forge.jar",
+      "sha256": "eb5cddfd1bc0cfc31e2d8ba68f848308d0a1e2974e7d826d4bb48ff20516fd7a"
+    },
+    {
+      "name": "saintsdragons-0.8.2+forge-1.20.1-alpha",
+      "file": "saintsdragons-0.8.2+forge-1.20.1-alpha.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/saintsdragons-0.8.2%2Bforge-1.20.1-alpha.jar",
+      "sha256": "6fdcdd6cd18eaba69604b50ef46d66c715ae18f69ce001b24da31e67a6a46d02"
+    },
+    {
+      "name": "SereneSeasons-forge-1.20.1-9.1.0.2",
+      "file": "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "sha256": "c4f1b6bcbd2c4fd8c54866cc217f455d2e8262e35ac218f8fb628c79bc76ff8e"
+    },
+    {
+      "name": "sophisticatedbackpacks-1.20.1-3.24.60.1982",
+      "file": "sophisticatedbackpacks-1.20.1-3.24.60.1982.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/sophisticatedbackpacks-1.20.1-3.24.60.1982.jar",
+      "sha256": "e53c700974de9924e1f93db70dd7b4baf58cd599d35bddfe46b799a04451f7e3"
+    },
+    {
+      "name": "sophisticatedcore-1.20.1-1.3.70.2166",
+      "file": "sophisticatedcore-1.20.1-1.3.70.2166.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/sophisticatedcore-1.20.1-1.3.70.2166.jar",
+      "sha256": "a624fd0480eb7370a0d6295d566e286c52018ef909418534bae0cbbc41e7bec9"
+    },
+    {
+      "name": "supplementaries-1.20-3.1.42-forge",
+      "file": "supplementaries-1.20-3.1.42-forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/supplementaries-1.20-3.1.42-forge.jar",
+      "sha256": "f58c2a725336f263e94870347df116e0198d7a8c36a6f7bdf065c566b0248811"
+    },
+    {
+      "name": "table_top_craft-1.20.1-6.1.2",
+      "file": "table_top_craft-1.20.1-6.1.2.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/table_top_craft-1.20.1-6.1.2.jar",
+      "sha256": "f27c7028ba08932986b170c06abcf991c98af14746ac045e237781b58ac5d82c"
+    },
+    {
+      "name": "takesapillage-1.0.3-1.20.1",
+      "file": "takesapillage-1.0.3-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/takesapillage-1.0.3-1.20.1.jar",
+      "sha256": "b8ebc7ea467637dc918ffa9c8eaa273f8723e6e81be93cf5f69618f8072baa11"
+    },
+    {
+      "name": "TerraBlender-forge-1.20.1-3.0.1.10",
+      "file": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha256": "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1"
+    },
+    {
+      "name": "Terralith_1.20.x_v2.5.4",
+      "file": "Terralith_1.20.x_v2.5.4.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/Terralith_1.20.x_v2.5.4.jar",
+      "sha256": "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f"
+    },
+    {
+      "name": "trashslot-forge-1.20.1-15.1.5",
+      "file": "trashslot-forge-1.20.1-15.1.5.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/trashslot-forge-1.20.1-15.1.5.jar",
+      "sha256": "7f038937dffeebc3885d347c47622d504a562da0bcce7873c50f2753db0a3746"
+    },
+    {
+      "name": "travelertoolbelt-forge-1.20.1-1.0.4",
+      "file": "travelertoolbelt-forge-1.20.1-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/travelertoolbelt-forge-1.20.1-1.0.4.jar",
+      "sha256": "11e756e477b66eafc3cf1ce49ad40462281b2bb114950981b4d9bcd1133d48c4"
+    },
+    {
+      "name": "unusualprehistory-1.5.0.3",
+      "file": "unusualprehistory-1.5.0.3.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/unusualprehistory-1.5.0.3.jar",
+      "sha256": "a83c80d5dac97a2d04240b6581b95fc3b65352ea1fb33409a72db2b1a59db018"
+    },
+    {
+      "name": "veinminer-1.1.0",
+      "file": "veinminer-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/veinminer-1.1.0.jar",
+      "sha256": "df32efdf0b1b963a04fd4503997049d0b2d645099d0156f7dfd65d0c61266cde"
+    },
+    {
+      "name": "VisualWorkbench-v8.0.1-1.20.1-Forge",
+      "file": "VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+      "sha256": "915f226fa14ce274879487dd14f38af5c57e1a9ada85099501134c4c8a03897a"
+    },
+    {
+      "name": "watut-forge-1.20.1-1.2.3",
+      "file": "watut-forge-1.20.1-1.2.3.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/watut-forge-1.20.1-1.2.3.jar",
+      "sha256": "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e"
+    },
+    {
+      "name": "waystones-forge-1.20.1-14.1.20",
+      "file": "waystones-forge-1.20.1-14.1.20.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/waystones-forge-1.20.1-14.1.20.jar",
+      "sha256": "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd"
+    },
+    {
+      "name": "weaponmaster_ydm-forge-1.20.1-4.2.3",
+      "file": "weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+      "sha256": "da63af14bd71b0be80376ed5ccc4e3669214e0e8baa5c7c1bbfa83d567513e9a"
+    },
+    {
+      "name": "WI-Zoom-1.5-MC1.20.1-Forge",
+      "file": "WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "sha256": "76a7b8e701d0ef27b1836a300ebd65b48193d211c0032511c943472fa653d883"
+    },
+    {
+      "name": "worldedit-mod-7.2.15",
+      "file": "worldedit-mod-7.2.15.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/worldedit-mod-7.2.15.jar",
+      "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+    },
+    {
+      "name": "xaerominimap-forge-1.20.1-26.4.2",
+      "file": "xaerominimap-forge-1.20.1-26.4.2.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/xaerominimap-forge-1.20.1-26.4.2.jar",
+      "sha256": "8143f332ed20a61a518692b42c793e021b6bd2d0d9d61cf3938fb9cfa07eb59c"
+    },
+    {
+      "name": "xaeroworldmap-forge-1.20.1-1.44.2",
+      "file": "xaeroworldmap-forge-1.20.1-1.44.2.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/xaeroworldmap-forge-1.20.1-1.44.2.jar",
+      "sha256": "cc20a74887923eecf5b614ffbf5a58e6c749d98a657003bde4a77d04212dee0d"
+    }
+  ],
+  "resourcepacks": []
+}
