@@ -229,12 +229,6 @@
       "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0"
     },
     {
-      "name": "freecam-forge-1.2.1+1.20",
-      "file": "freecam-forge-1.2.1+1.20.jar",
-      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/freecam-forge-1.2.1%2B1.20.jar",
-      "sha256": "8d7778cb5d181e981cb6d7c1015e3597cd5a88a18b2924386a6f8790abb239b4"
-    },
-    {
       "name": "geckolib-forge-1.20.1-4.8.4",
       "file": "geckolib-forge-1.20.1-4.8.4.jar",
       "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/geckolib-forge-1.20.1-4.8.4.jar",
