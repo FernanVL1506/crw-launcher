@@ -91,6 +91,12 @@
       "sha256": "8db8565e5e9c5be91a77fc3d44e3e3b4a1e0ec17558d9211545208e3f68cfd87"
     },
     {
+      "name": "CustomSkinLoader_Universal-15.0.1",
+      "file": "CustomSkinLoader_Universal-15.0.1.jar",
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/CustomSkinLoader_Universal-15.0.1.jar",
+      "sha256": "026d8b38ea93edccd647f60568193e79801a377b7bd4e916dcfc0d5482b767fc"
+    },
+    {
       "name": "cfm-forge-1.20.1-7.0.0-pre36",
       "file": "cfm-forge-1.20.1-7.0.0-pre36.jar",
       "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/refs/heads/main/mods/cfm-forge-1.20.1-7.0.0-pre36.jar",
