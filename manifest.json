@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-09-17T00:16:29.1646219-05:00",
-    "modCount":  116,
+    "generatedAt":  "2026-09-17T00:28:16.9446680-05:00",
+    "modCount":  114,
     "mods":  [
                  {
                      "file":  "abridged-2.0.0-forge-1.20.1.jar",
@@ -360,13 +360,6 @@
                      "url":  "https://github.com/FernanVL1506/crw-launcher/tree/main/mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar"
                  },
                  {
-                     "file":  "Immersive Vehicles-1.20.1-23.0.0.jar",
-                     "name":  "Immersive Vehicles-1.20.1-23.0.0.jar",
-                     "sha256":  "c8370f60c61b58ca7ce01d0e90161ff26665118baceca8c8f71f644d91f96417",
-                     "size":  6224428,
-                     "url":  "https://github.com/FernanVL1506/crw-launcher/tree/main/mods/Immersive Vehicles-1.20.1-23.0.0.jar"
-                 },
-                 {
                      "file":  "immersiveoverlays-1.7.2+1.20.1-forge.jar",
                      "name":  "immersiveoverlays-1.7.2+1.20.1-forge.jar",
                      "sha256":  "0c91212ad5eb0de90614fdcece523788800fb98132c3be2ef44008df4764db21",
@@ -575,13 +568,6 @@
                      "sha256":  "5bf73a759ba9f909321485b60f11e5340c6d522e27d48cabc606696111d37e0d",
                      "size":  418925,
                      "url":  "https://github.com/FernanVL1506/crw-launcher/tree/main/mods/NekosEnchantedBooks-1.19.3-2.0.3.jar"
-                 },
-                 {
-                     "file":  "OAmP-1.20.1-V2.jar",
-                     "name":  "OAmP-1.20.1-V2.jar",
-                     "sha256":  "2a779a87f4654e380b27d50d8d94fbaaae73ec781f5209b68cf62f1b19867dde",
-                     "size":  21063928,
-                     "url":  "https://github.com/FernanVL1506/crw-launcher/tree/main/mods/OAmP-1.20.1-V2.jar"
                  },
                  {
                      "file":  "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
