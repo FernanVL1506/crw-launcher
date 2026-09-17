@@ -255,13 +255,6 @@
                      "url":  "https://github.com/FernanVL1506/crw-launcher/tree/main/mods/easy_npc_config_ui-forge-1.20.1-7.10.0.jar"
                  },
                  {
-                     "file":  "embeddium-0.3.31+mc1.20.1.jar",
-                     "name":  "embeddium-0.3.31+mc1.20.1.jar",
-                     "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
-                     "size":  1320675,
-                     "url":  "https://github.com/FernanVL1506/crw-launcher/tree/main/mods/embeddium-0.3.31+mc1.20.1.jar"
-                 },
-                 {
                      "file":  "entityculling-forge-1.10.5-mc1.20.1.jar",
                      "name":  "entityculling-forge-1.10.5-mc1.20.1.jar",
                      "sha256":  "db0ee6aaf7e78d758885969e1d237e6efef07109195d4bb81fa06b304ddc12aa",
