@@ -1,6 +1,6 @@
 ﻿{
-    "generatedAt":  "2026-09-19T12:35:06.2298463-05:00",
-    "modCount":  127,
+    "generatedAt":  "2026-09-25T17:17:51.5542054-05:00",
+    "modCount":  128,
     "mods":  [
                  {
                      "file":  "abridged-2.0.0-forge-1.20.1.jar",
@@ -64,6 +64,13 @@
                      "sha256":  "a844bc2dcba6381051c64e04ea6388465ce97c53f1410b59f5dd4a91f5ea476f",
                      "size":  5213524,
                      "url":  "https://github.com/FernanVL1506/crw-launcher/tree/main/mods/atmospheric-1.20.1-6.1.1.jar"
+                 },
+                 {
+                     "file":  "AutoTranslation-1.2.1+mc1.20.2-forge.jar",
+                     "name":  "AutoTranslation-1.2.1+mc1.20.2-forge.jar",
+                     "sha256":  "bdac1ff9463e60a81ea7a0aa1be01953a37e364cd976e0f28feb770b394b479f",
+                     "size":  114412,
+                     "url":  "https://github.com/FernanVL1506/crw-launcher/tree/main/mods/AutoTranslation-1.2.1+mc1.20.2-forge.jar"
                  },
                  {
                      "file":  "awesomedungeon-forge-1.20.1-3.2.0.jar",
