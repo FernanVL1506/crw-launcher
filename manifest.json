@@ -898,5 +898,14 @@
       "size": 1421224,
       "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/xaeroworldmap-forge-1.20.1-1.44.2.jar"
     }
+  ],
+  "resourcepacks": [
+    {
+      "file": "CRW-Resourcepack.zip",
+      "name": "CRW-Resourcepack.zip",
+      "sha256": "ffcdd076cf63f8bd498b22e4a04d11bef782f818cbd5c4184d5db79e28aab93f",
+      "size": 40135480,
+      "url": "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/resourcepacks/CRW-Resourcepack.zip"
+    }
   ]
 }
