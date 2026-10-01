@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-10-01T08:35:28.3900197-05:00",
-    "modCount":  134,
+    "generatedAt":  "2026-10-01T08:50:47.8739693-05:00",
+    "modCount":  126,
     "mods":  [
                  {
                      "file":  "abridged-2.0.0-forge-1.20.1.jar",
@@ -141,13 +141,6 @@
                      "sha256":  "f60da490da005f1a1a03104262de3a94968b8a51a55fbc2949cacb63d6cc6bec",
                      "size":  722579,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/chat_heads-0.15.1-forge-1.20.jar"
-                 },
-                 {
-                     "file":  "cinematic_respawn-1.20.1-forge-1.2.0.jar",
-                     "name":  "cinematic_respawn-1.20.1-forge-1.2.0.jar",
-                     "sha256":  "c2fa8a9224d619d6a1df716cb7f91abf61817d42bca31c69808c48f90705a473",
-                     "size":  27369,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/cinematic_respawn-1.20.1-forge-1.2.0.jar"
                  },
                  {
                      "file":  "cloth-config-11.1.136-forge.jar",
@@ -402,13 +395,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/gml-4.0.11-all.jar"
                  },
                  {
-                     "file":  "grand-teleport-forge-1.20.1-forge-build300.jar",
-                     "name":  "grand-teleport-forge-1.20.1-forge-build300.jar",
-                     "sha256":  "5c87ce7e371bc2dbcbcbe1b86bcaa5bc0589480cadf9dd795a7154c99d2b71e9",
-                     "size":  1157845,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/grand-teleport-forge-1.20.1-forge-build300.jar"
-                 },
-                 {
                      "file":  "grim-kingdoms-lost-structures-ruins-vanilla-edition-v1.0.0 1.20+.jar",
                      "name":  "grim-kingdoms-lost-structures-ruins-vanilla-edition-v1.0.0 1.20+.jar",
                      "sha256":  "0816e8ab94723b8bdbeeac0c6b17fec9d5796822f4b688e239e4d99fb7752412",
@@ -465,13 +451,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Incendium_1.20.x_v5.3.5.jar"
                  },
                  {
-                     "file":  "inventoryhud.forge.1.20.1-3.4.26.jar",
-                     "name":  "inventoryhud.forge.1.20.1-3.4.26.jar",
-                     "sha256":  "01d9a2d1e26fffff78eb47f3e4837189e7567dde849810b1bf6d278520c1e971",
-                     "size":  238088,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/inventoryhud.forge.1.20.1-3.4.26.jar"
-                 },
-                 {
                      "file":  "Jade-1.20.1-Forge-11.13.2.jar",
                      "name":  "Jade-1.20.1-Forge-11.13.2.jar",
                      "sha256":  "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5",
@@ -512,13 +491,6 @@
                      "sha256":  "d55f72b24c4d5f3236b3754c1c9209757a4740771bc95a40406ad90022263488",
                      "size":  3094193,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/letsdo-bloomingnature-forge-1.0.12.jar"
-                 },
-                 {
-                     "file":  "letsdo-furniture-forge-1.0.4.jar",
-                     "name":  "letsdo-furniture-forge-1.0.4.jar",
-                     "sha256":  "814f0e6490e8b380dc36989a0e4953d72e9c4afddb116983f86baca509d85e6b",
-                     "size":  2816299,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/letsdo-furniture-forge-1.0.4.jar"
                  },
                  {
                      "file":  "libraryferret-forge-1.20.1-4.0.0.jar",
@@ -724,13 +696,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/primal-1.1.6+1.20.1.jar"
                  },
                  {
-                     "file":  "psychopath-forge-1.20.1-1.4.5.jar",
-                     "name":  "psychopath-forge-1.20.1-1.4.5.jar",
-                     "sha256":  "5190dba4d8eb02a6911bf780769340c8a7428143ffaff9605b6fc9c2bd9577cf",
-                     "size":  15712752,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/psychopath-forge-1.20.1-1.4.5.jar"
-                 },
-                 {
                      "file":  "puddleflood-1.1.5+1.20.1-forge.jar",
                      "name":  "puddleflood-1.1.5+1.20.1-forge.jar",
                      "sha256":  "9ee0139ac0c2301c163d45c5e37111d4c581dd27f126417e6b6bec044df72011",
@@ -752,13 +717,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
                  },
                  {
-                     "file":  "refurbished_furniture-forge-1.20.1-1.0.20.jar",
-                     "name":  "refurbished_furniture-forge-1.20.1-1.0.20.jar",
-                     "sha256":  "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e",
-                     "size":  6689588,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar"
-                 },
-                 {
                      "file":  "repurposed_structures-7.1.21+1.20.1-forge.jar",
                      "name":  "repurposed_structures-7.1.21+1.20.1-forge.jar",
                      "sha256":  "eb5cddfd1bc0cfc31e2d8ba68f848308d0a1e2974e7d826d4bb48ff20516fd7a",
@@ -778,20 +736,6 @@
                      "sha256":  "273270d87ca86e62d23eb80aebd1749af7ee03839a6f91cec202162cbd0f6415",
                      "size":  29434672,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/saintsdragons-0.9.85+forge-1.20.1.jar"
-                 },
-                 {
-                     "file":  "sanitydim-mc1.20-1.1.0.jar",
-                     "name":  "sanitydim-mc1.20-1.1.0.jar",
-                     "sha256":  "d1f58851682586dde4a533b1a200d83cdafaee833299d45d4700e47433fa103a",
-                     "size":  6052841,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/sanitydim-mc1.20-1.1.0.jar"
-                 },
-                 {
-                     "file":  "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
-                     "name":  "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
-                     "sha256":  "c4f1b6bcbd2c4fd8c54866cc217f455d2e8262e35ac218f8fb628c79bc76ff8e",
-                     "size":  160887,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
                  },
                  {
                      "file":  "Siren_head v1.1.4-1.20.1.jar",
