@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-10-01T02:09:38.0171712-05:00",
-    "modCount":  137,
+    "generatedAt":  "2026-10-01T08:35:28.3900197-05:00",
+    "modCount":  134,
     "mods":  [
                  {
                      "file":  "abridged-2.0.0-forge-1.20.1.jar",
@@ -113,13 +113,6 @@
                      "sha256":  "41152bfac14637edbf3dd868e92c19a48c6c0a25513a2ecdada2366593c883c0",
                      "size":  1165189,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/blueprint-1.20.1-7.1.4.jar"
-                 },
-                 {
-                     "file":  "boiled_reimagined-1.0.12-forge-1.20.1.jar",
-                     "name":  "boiled_reimagined-1.0.12-forge-1.20.1.jar",
-                     "sha256":  "afbcc1deaa7ae801c78359540cd8bf8ba5f60b84a5548cc31b4e5f97e6cc7ed8",
-                     "size":  4928773,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/boiled_reimagined-1.0.12-forge-1.20.1.jar"
                  },
                  {
                      "file":  "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
@@ -332,13 +325,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/FarmersDelight-1.20.1-1.2.11.jar"
                  },
                  {
-                     "file":  "fazbears-wrath-v1.2.0.jar",
-                     "name":  "fazbears-wrath-v1.2.0.jar",
-                     "sha256":  "30e8dda2e818499c87aae7e72d877590cfc0655664071f457b5a337b8be48d64",
-                     "size":  6257583,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/fazbears-wrath-v1.2.0.jar"
-                 },
-                 {
                      "file":  "ferritecore-6.0.1-forge.jar",
                      "name":  "ferritecore-6.0.1-forge.jar",
                      "sha256":  "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
@@ -358,13 +344,6 @@
                      "sha256":  "8d7778cb5d181e981cb6d7c1015e3597cd5a88a18b2924386a6f8790abb239b4",
                      "size":  75389,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/freecam-forge-1.2.1+1.20.jar"
-                 },
-                 {
-                     "file":  "From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar",
-                     "name":  "From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar",
-                     "sha256":  "385bddf654c6edefd35cd7f47ce7dffff0610d29ed9efd49927f488dec919fb1",
-                     "size":  4749752,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar"
                  },
                  {
                      "file":  "ftb-library-forge-2001.2.13.jar",
