@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-10-01T01:25:39.1537652-05:00",
-    "modCount":  138,
+    "generatedAt":  "2026-10-01T02:09:38.0171712-05:00",
+    "modCount":  137,
     "mods":  [
                  {
                      "file":  "abridged-2.0.0-forge-1.20.1.jar",
@@ -85,13 +85,6 @@
                      "sha256":  "053205e3dac0d19fcff4aa3d4f5e4df48d3398b54d446d65fb918c520429e11a",
                      "size":  559741,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/balm-forge-1.20.1-7.3.41-all.jar"
-                 },
-                 {
-                     "file":  "belowland-0.2.5.4-all.jar",
-                     "name":  "belowland-0.2.5.4-all.jar",
-                     "sha256":  "a8cf52fd1f3f6ee86c43e900a113068928570ed0c1a87ac0f845f27c8f2bfc00",
-                     "size":  95618429,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/belowland-0.2.5.4-all.jar"
                  },
                  {
                      "file":  "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
