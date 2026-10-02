@@ -1,14 +1,7 @@
 {
-    "generatedAt":  "2026-10-01T08:50:47.8739693-05:00",
-    "modCount":  126,
+    "generatedAt":  "2026-10-02T08:48:21.7442935-05:00",
+    "modCount":  116,
     "mods":  [
-                 {
-                     "file":  "abridged-2.0.0-forge-1.20.1.jar",
-                     "name":  "abridged-2.0.0-forge-1.20.1.jar",
-                     "sha256":  "d64f9c5d70aa808771770cc7b7f4490f225e646db3c81ae0080cbc6b4a5429af",
-                     "size":  120848,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/abridged-2.0.0-forge-1.20.1.jar"
-                 },
                  {
                      "file":  "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
                      "name":  "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
@@ -29,13 +22,6 @@
                      "sha256":  "7b8e945da294b745e6aed9f88f28e232a767e032d7c2b8137a8ef36421d9fb33",
                      "size":  1187126,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/alltheleaks-1.1.1+1.20.1-forge.jar"
-                 },
-                 {
-                     "file":  "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
-                     "name":  "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
-                     "sha256":  "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
-                     "size":  53429226,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar"
                  },
                  {
                      "file":  "appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -248,6 +234,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/deltaboxlib-forge-2.2.0+1.20.1.jar"
                  },
                  {
+                     "file":  "Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar",
+                     "name":  "Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar",
+                     "sha256":  "c37d000c7440d2577fb4279fa0ead1d10d48cc78c28fa42258d70725f1a56f82",
+                     "size":  62044,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar"
+                 },
+                 {
                      "file":  "Dungeon Crawl-1.20.1-2.3.15.jar",
                      "name":  "Dungeon Crawl-1.20.1-2.3.15.jar",
                      "sha256":  "71e1b8ceaf20c3102ae42ef2761ca47f30fe4cbd20ecbb687df2ce75d1785514",
@@ -339,27 +332,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/freecam-forge-1.2.1+1.20.jar"
                  },
                  {
-                     "file":  "ftb-library-forge-2001.2.13.jar",
-                     "name":  "ftb-library-forge-2001.2.13.jar",
-                     "sha256":  "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7",
-                     "size":  780558,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/ftb-library-forge-2001.2.13.jar"
-                 },
-                 {
-                     "file":  "ftb-quests-forge-2001.4.22.jar",
-                     "name":  "ftb-quests-forge-2001.4.22.jar",
-                     "sha256":  "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68",
-                     "size":  1255469,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/ftb-quests-forge-2001.4.22.jar"
-                 },
-                 {
-                     "file":  "ftb-teams-forge-2001.3.2.jar",
-                     "name":  "ftb-teams-forge-2001.3.2.jar",
-                     "sha256":  "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07",
-                     "size":  252579,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/ftb-teams-forge-2001.3.2.jar"
-                 },
-                 {
                      "file":  "fzzy_config-0.7.7+1.20.1+forge.jar",
                      "name":  "fzzy_config-0.7.7+1.20.1+forge.jar",
                      "sha256":  "c4acf6fd3ce66ff28050dd9fdbff25c407f98a4911311ff3f59d651acccc9575",
@@ -430,13 +402,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/immersive_paintings-0.6.13+1.20.1-forge.jar"
                  },
                  {
-                     "file":  "immersiveoverlays-1.7.2+1.20.1-forge.jar",
-                     "name":  "immersiveoverlays-1.7.2+1.20.1-forge.jar",
-                     "sha256":  "0c91212ad5eb0de90614fdcece523788800fb98132c3be2ef44008df4764db21",
-                     "size":  939806,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/immersiveoverlays-1.7.2+1.20.1-forge.jar"
-                 },
-                 {
                      "file":  "ImmersiveUI-FORGE-0.3.0.jar",
                      "name":  "ImmersiveUI-FORGE-0.3.0.jar",
                      "sha256":  "7295ae6681b178ed633e951b1f4478d15b2ed7b13836038caf7d3c9427fff1ff",
@@ -449,6 +414,13 @@
                      "sha256":  "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75",
                      "size":  4638945,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Incendium_1.20.x_v5.3.5.jar"
+                 },
+                 {
+                     "file":  "inventoryhud.forge.1.20.1-3.4.26.jar",
+                     "name":  "inventoryhud.forge.1.20.1-3.4.26.jar",
+                     "sha256":  "01d9a2d1e26fffff78eb47f3e4837189e7567dde849810b1bf6d278520c1e971",
+                     "size":  238088,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/inventoryhud.forge.1.20.1-3.4.26.jar"
                  },
                  {
                      "file":  "Jade-1.20.1-Forge-11.13.2.jar",
@@ -519,13 +491,6 @@
                      "sha256":  "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
                      "size":  37178,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
-                 },
-                 {
-                     "file":  "mes-1.4.6-1.20.jar",
-                     "name":  "mes-1.4.6-1.20.jar",
-                     "sha256":  "222bdb29ff0ac45712b40888b83a32bbda52b1e040e429b169c591c9a7d19a61",
-                     "size":  1140667,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/mes-1.4.6-1.20.jar"
                  },
                  {
                      "file":  "minecraft-comes-alive-7.6.15+1.20.1-universal.jar",
@@ -661,13 +626,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/ParCool-1.20.1-3.4.3.3.jar"
                  },
                  {
-                     "file":  "Pehkui-3.8.2+1.20.1-forge.jar",
-                     "name":  "Pehkui-3.8.2+1.20.1-forge.jar",
-                     "sha256":  "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc",
-                     "size":  671605,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Pehkui-3.8.2+1.20.1-forge.jar"
-                 },
-                 {
                      "file":  "PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
                      "name":  "PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
                      "sha256":  "b343d2068413d895deb45417f56d2c823fe07b173879c1b03575eebfc189011d",
@@ -680,13 +638,6 @@
                      "sha256":  "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb",
                      "size":  5298162,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
-                 },
-                 {
-                     "file":  "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
-                     "name":  "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
-                     "sha256":  "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98",
-                     "size":  7080698,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar"
                  },
                  {
                      "file":  "primal-1.1.6+1.20.1.jar",
@@ -738,13 +689,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/saintsdragons-0.9.85+forge-1.20.1.jar"
                  },
                  {
-                     "file":  "Siren_head v1.1.4-1.20.1.jar",
-                     "name":  "Siren_head v1.1.4-1.20.1.jar",
-                     "sha256":  "7df77358092deed2fcded6c895975891eeaf70ae3bf4fba26bce1553cdce85fa",
-                     "size":  11279970,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Siren_head v1.1.4-1.20.1.jar"
-                 },
-                 {
                      "file":  "sophisticatedbackpacks-1.20.1-3.24.60.1982.jar",
                      "name":  "sophisticatedbackpacks-1.20.1-3.24.60.1982.jar",
                      "sha256":  "e53c700974de9924e1f93db70dd7b4baf58cd599d35bddfe46b799a04451f7e3",
@@ -764,20 +708,6 @@
                      "sha256":  "14bfc4b1e82ea24118402fccd90dffde45fa6d9e2238bfaa19a43b3fb88ee49c",
                      "size":  246413,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/structure_layout_optimizer-forge-1.0.11.jar"
-                 },
-                 {
-                     "file":  "supplementaries-1.20-3.1.42-forge.jar",
-                     "name":  "supplementaries-1.20-3.1.42-forge.jar",
-                     "sha256":  "f58c2a725336f263e94870347df116e0198d7a8c36a6f7bdf065c566b0248811",
-                     "size":  13661432,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/supplementaries-1.20-3.1.42-forge.jar"
-                 },
-                 {
-                     "file":  "table_top_craft-1.20.1-6.1.2.jar",
-                     "name":  "table_top_craft-1.20.1-6.1.2.jar",
-                     "sha256":  "f27c7028ba08932986b170c06abcf991c98af14746ac045e237781b58ac5d82c",
-                     "size":  1466790,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/table_top_craft-1.20.1-6.1.2.jar"
                  },
                  {
                      "file":  "takesapillage-1.0.3-1.20.1.jar",
