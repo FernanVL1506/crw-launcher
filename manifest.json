@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-10-06T21:58:52.5336568-05:00",
-    "modCount":  138,
+    "generatedAt":  "2026-10-07T06:39:45.2803995-05:00",
+    "modCount":  135,
     "mods":  [
                  {
                      "file":  "advancedcompass.forge.1.20.1-1.2.15.jar",
@@ -85,13 +85,6 @@
                      "sha256":  "053205e3dac0d19fcff4aa3d4f5e4df48d3398b54d446d65fb918c520429e11a",
                      "size":  559741,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/balm-forge-1.20.1-7.3.41-all.jar"
-                 },
-                 {
-                     "file":  "BetterF3-7.0.2-Forge-1.20.1.jar",
-                     "name":  "BetterF3-7.0.2-Forge-1.20.1.jar",
-                     "sha256":  "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0",
-                     "size":  468517,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/BetterF3-7.0.2-Forge-1.20.1.jar"
                  },
                  {
                      "file":  "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
@@ -288,20 +281,6 @@
                      "sha256":  "5965acaf5e2ed24542777ff0ec309085332d6c9255903eddc644822a61e851cf",
                      "size":  52436,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/DistantFriends-forge-1.20.1-0.5.6.jar"
-                 },
-                 {
-                     "file":  "doctor_nowhere_sun_town-2.7.jar",
-                     "name":  "doctor_nowhere_sun_town-2.7.jar",
-                     "sha256":  "5375dbac222e6bf4d400d1da7deac54102c3183feb877137f62af5c26744c9b2",
-                     "size":  2271109,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/doctor_nowhere_sun_town-2.7.jar"
-                 },
-                 {
-                     "file":  "doctor_nowhere-2.4.0-forge-1.20.1.jar",
-                     "name":  "doctor_nowhere-2.4.0-forge-1.20.1.jar",
-                     "sha256":  "3cfdc61ab1ea2c2cfc9c3778f5db878a5879b5d22b7dd33ab9676e24cbafd97f",
-                     "size":  22736788,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/doctor_nowhere-2.4.0-forge-1.20.1.jar"
                  },
                  {
                      "file":  "Dungeon Crawl-1.20.1-2.3.15.jar",
