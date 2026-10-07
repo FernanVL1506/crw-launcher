@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-10-06T21:52:19.0775739-05:00",
-    "modCount":  136,
+    "generatedAt":  "2026-10-06T21:58:52.5336568-05:00",
+    "modCount":  138,
     "mods":  [
                  {
                      "file":  "advancedcompass.forge.1.20.1-1.2.15.jar",
@@ -388,6 +388,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/ferritecore-6.0.1-forge.jar"
                  },
                  {
+                     "file":  "fragmentum-5.2.0+1.20.1-forge.jar",
+                     "name":  "fragmentum-5.2.0+1.20.1-forge.jar",
+                     "sha256":  "a003fedce92c52ef377e48fc3779cb2506be1ce7f947c88f1eb241b2992c16b4",
+                     "size":  8580894,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/fragmentum-5.2.0+1.20.1-forge.jar"
+                 },
+                 {
                      "file":  "framework-forge-1.20.1-0.8.0.jar",
                      "name":  "framework-forge-1.20.1-0.8.0.jar",
                      "sha256":  "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0",
@@ -750,6 +757,13 @@
                      "sha256":  "bfbeb4e2159381be06bee86c072da108887a1e4380e6495087895fa39aae3eb5",
                      "size":  13303587,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/primal-1.1.6+1.20.1.jar"
+                 },
+                 {
+                     "file":  "Prism-1.20.1-forge-1.0.5.jar",
+                     "name":  "Prism-1.20.1-forge-1.0.5.jar",
+                     "sha256":  "b1a576f920faeb2175f693e3ee7ba9e5ff0bcf0e404da29f1824ea3c66efd240",
+                     "size":  52205,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Prism-1.20.1-forge-1.0.5.jar"
                  },
                  {
                      "file":  "puddleflood-1.1.5+1.20.1-forge.jar",
