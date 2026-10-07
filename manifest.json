@@ -1,7 +1,14 @@
 {
-    "generatedAt":  "2026-10-02T08:48:21.7442935-05:00",
-    "modCount":  116,
+    "generatedAt":  "2026-10-06T21:52:19.0775739-05:00",
+    "modCount":  136,
     "mods":  [
+                 {
+                     "file":  "advancedcompass.forge.1.20.1-1.2.15.jar",
+                     "name":  "advancedcompass.forge.1.20.1-1.2.15.jar",
+                     "sha256":  "844bf0444d9b02b18df59ccec12608a923418d4e639f4d601c72b0194b660ab3",
+                     "size":  496935,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/advancedcompass.forge.1.20.1-1.2.15.jar"
+                 },
                  {
                      "file":  "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
                      "name":  "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
@@ -22,6 +29,13 @@
                      "sha256":  "7b8e945da294b745e6aed9f88f28e232a767e032d7c2b8137a8ef36421d9fb33",
                      "size":  1187126,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/alltheleaks-1.1.1+1.20.1-forge.jar"
+                 },
+                 {
+                     "file":  "anomaly-2.1.0-forge-1.20.1.jar",
+                     "name":  "anomaly-2.1.0-forge-1.20.1.jar",
+                     "sha256":  "3079e9d9ca01e19da268e4c8b7069f4abc33ee39ae801d72432c31efcfd28a93",
+                     "size":  1573692,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/anomaly-2.1.0-forge-1.20.1.jar"
                  },
                  {
                      "file":  "appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -73,6 +87,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/balm-forge-1.20.1-7.3.41-all.jar"
                  },
                  {
+                     "file":  "BetterF3-7.0.2-Forge-1.20.1.jar",
+                     "name":  "BetterF3-7.0.2-Forge-1.20.1.jar",
+                     "sha256":  "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0",
+                     "size":  468517,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/BetterF3-7.0.2-Forge-1.20.1.jar"
+                 },
+                 {
                      "file":  "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
                      "name":  "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
                      "sha256":  "330f482487ac3135557b6e898d7e1ae5330321e9cfd5ba63e13a16cf2e8d8b98",
@@ -99,6 +120,13 @@
                      "sha256":  "41152bfac14637edbf3dd868e92c19a48c6c0a25513a2ecdada2366593c883c0",
                      "size":  1165189,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/blueprint-1.20.1-7.1.4.jar"
+                 },
+                 {
+                     "file":  "boiled_reimagined-1.0.12-forge-1.20.1.jar",
+                     "name":  "boiled_reimagined-1.0.12-forge-1.20.1.jar",
+                     "sha256":  "afbcc1deaa7ae801c78359540cd8bf8ba5f60b84a5548cc31b4e5f97e6cc7ed8",
+                     "size":  4928773,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/boiled_reimagined-1.0.12-forge-1.20.1.jar"
                  },
                  {
                      "file":  "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
@@ -206,6 +234,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/curios-forge-5.14.1+1.20.1.jar"
                  },
                  {
+                     "file":  "CustomPlayerModels-1.20-0.6.27a.jar",
+                     "name":  "CustomPlayerModels-1.20-0.6.27a.jar",
+                     "sha256":  "f4964fb5b008eea1401853c6ba19a623b5fd6f10e3e14c77d686d999a0bb7c42",
+                     "size":  2805930,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/CustomPlayerModels-1.20-0.6.27a.jar"
+                 },
+                 {
                      "file":  "CustomSkinLoader_Universal-15.0.1.jar",
                      "name":  "CustomSkinLoader_Universal-15.0.1.jar",
                      "sha256":  "026d8b38ea93edccd647f60568193e79801a377b7bd4e916dcfc0d5482b767fc",
@@ -239,6 +274,34 @@
                      "sha256":  "c37d000c7440d2577fb4279fa0ead1d10d48cc78c28fa42258d70725f1a56f82",
                      "size":  62044,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar"
+                 },
+                 {
+                     "file":  "dimdoors-5.4.4-1.20.1-forge.jar",
+                     "name":  "dimdoors-5.4.4-1.20.1-forge.jar",
+                     "sha256":  "ee8193a36d07827e52d540a81d07460e3b47a0bda6366adef1873d9b02a83b52",
+                     "size":  17827316,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/dimdoors-5.4.4-1.20.1-forge.jar"
+                 },
+                 {
+                     "file":  "DistantFriends-forge-1.20.1-0.5.6.jar",
+                     "name":  "DistantFriends-forge-1.20.1-0.5.6.jar",
+                     "sha256":  "5965acaf5e2ed24542777ff0ec309085332d6c9255903eddc644822a61e851cf",
+                     "size":  52436,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/DistantFriends-forge-1.20.1-0.5.6.jar"
+                 },
+                 {
+                     "file":  "doctor_nowhere_sun_town-2.7.jar",
+                     "name":  "doctor_nowhere_sun_town-2.7.jar",
+                     "sha256":  "5375dbac222e6bf4d400d1da7deac54102c3183feb877137f62af5c26744c9b2",
+                     "size":  2271109,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/doctor_nowhere_sun_town-2.7.jar"
+                 },
+                 {
+                     "file":  "doctor_nowhere-2.4.0-forge-1.20.1.jar",
+                     "name":  "doctor_nowhere-2.4.0-forge-1.20.1.jar",
+                     "sha256":  "3cfdc61ab1ea2c2cfc9c3778f5db878a5879b5d22b7dd33ab9676e24cbafd97f",
+                     "size":  22736788,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/doctor_nowhere-2.4.0-forge-1.20.1.jar"
                  },
                  {
                      "file":  "Dungeon Crawl-1.20.1-2.3.15.jar",
@@ -302,6 +365,13 @@
                      "sha256":  "db0ee6aaf7e78d758885969e1d237e6efef07109195d4bb81fa06b304ddc12aa",
                      "size":  1590221,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/entityculling-forge-1.10.5-mc1.20.1.jar"
+                 },
+                 {
+                     "file":  "explosiveenhancement-1.2.0.jar",
+                     "name":  "explosiveenhancement-1.2.0.jar",
+                     "sha256":  "aea3fd8c2b2b8cbcf522ae47d392af67d3f60ded48d4ebf0270e2a99f85b431a",
+                     "size":  97476,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/explosiveenhancement-1.2.0.jar"
                  },
                  {
                      "file":  "FarmersDelight-1.20.1-1.2.11.jar",
@@ -423,6 +493,20 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/inventoryhud.forge.1.20.1-3.4.26.jar"
                  },
                  {
+                     "file":  "ItemBorders-1.20.1-forge-1.2.2.jar",
+                     "name":  "ItemBorders-1.20.1-forge-1.2.2.jar",
+                     "sha256":  "23710606b68c5367ef28d2efa55d8efc4a7d1df8ac1f232e4327977cd1a16b56",
+                     "size":  20832,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/ItemBorders-1.20.1-forge-1.2.2.jar"
+                 },
+                 {
+                     "file":  "its_not_real-1.1.1.1.1.1.1.1.jar",
+                     "name":  "its_not_real-1.1.1.1.1.1.1.1.jar",
+                     "sha256":  "798ef47890cc5129114d795bbacb44f3b3fdb7acc471420effce670a20ca8eb9",
+                     "size":  64668030,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/its_not_real-1.1.1.1.1.1.1.1.jar"
+                 },
+                 {
                      "file":  "Jade-1.20.1-Forge-11.13.2.jar",
                      "name":  "Jade-1.20.1-Forge-11.13.2.jar",
                      "sha256":  "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5",
@@ -486,11 +570,25 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/lithostitched-forge-1.20.1-1.4.11.jar"
                  },
                  {
+                     "file":  "lootbeams-1.20.1-1.2.6.jar",
+                     "name":  "lootbeams-1.20.1-1.2.6.jar",
+                     "sha256":  "4660197524c9198ca93b20999204881a007df452e3bd2151358ea6b844e86b3f",
+                     "size":  163914,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/lootbeams-1.20.1-1.2.6.jar"
+                 },
+                 {
                      "file":  "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
                      "name":  "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
                      "sha256":  "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8",
                      "size":  37178,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+                 },
+                 {
+                     "file":  "meteor_shower-0.0.4.2.jar",
+                     "name":  "meteor_shower-0.0.4.2.jar",
+                     "sha256":  "6f66e0f6fdbef823edaabd944ca626d5d492c4783d0664d8476e5eb7412754f0",
+                     "size":  252389,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/meteor_shower-0.0.4.2.jar"
                  },
                  {
                      "file":  "minecraft-comes-alive-7.6.15+1.20.1-universal.jar",
@@ -598,6 +696,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/NekosEnchantedBooks-1.19.3-2.0.3.jar"
                  },
                  {
+                     "file":  "obscure_tooltips-forge-1.20.1-3.10.1.jar",
+                     "name":  "obscure_tooltips-forge-1.20.1-3.10.1.jar",
+                     "sha256":  "ac8b26da3c4ec73988c0b83ac3e77ab9a116f3f88066b4d174dc6563ffd335bd",
+                     "size":  1138929,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/obscure_tooltips-forge-1.20.1-3.10.1.jar"
+                 },
+                 {
                      "file":  "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
                      "name":  "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
                      "sha256":  "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
@@ -689,6 +794,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/saintsdragons-0.9.85+forge-1.20.1.jar"
                  },
                  {
+                     "file":  "smoothgui-forge-2.0.7+mc1.20.1.jar",
+                     "name":  "smoothgui-forge-2.0.7+mc1.20.1.jar",
+                     "sha256":  "29690927118423a9da5e8359cdcaff458ad472ecb9a52648da3d8bb37b3d6934",
+                     "size":  726187,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/smoothgui-forge-2.0.7+mc1.20.1.jar"
+                 },
+                 {
                      "file":  "sophisticatedbackpacks-1.20.1-3.24.60.1982.jar",
                      "name":  "sophisticatedbackpacks-1.20.1-3.24.60.1982.jar",
                      "sha256":  "e53c700974de9924e1f93db70dd7b4baf58cd599d35bddfe46b799a04451f7e3",
@@ -731,6 +843,27 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Terralith_1.20.x_v2.5.4.jar"
                  },
                  {
+                     "file":  "terrifying_freddy-1.0.2.jar",
+                     "name":  "terrifying_freddy-1.0.2.jar",
+                     "sha256":  "cfd23aeba0752fb023722d1f399647c3aedb27889a6a6e7e8e36e509e6b0c367",
+                     "size":  2311719,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/terrifying_freddy-1.0.2.jar"
+                 },
+                 {
+                     "file":  "the_boy_and_the_bath-4.0.1-forge-1.20.1.jar",
+                     "name":  "the_boy_and_the_bath-4.0.1-forge-1.20.1.jar",
+                     "sha256":  "99161feaea2a1fba7b2a41584fc9eb9082a27484e634f3a23a6f72391bf2f020",
+                     "size":  913118,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/the_boy_and_the_bath-4.0.1-forge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "the_obsessed-1.5.2g-forge-1.20.1.jar",
+                     "name":  "the_obsessed-1.5.2g-forge-1.20.1.jar",
+                     "sha256":  "af31c86b4d544bbbb27537f6b9a173f1f9d0421be2df5013089aeae10b630aeb",
+                     "size":  3529151,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/the_obsessed-1.5.2g-forge-1.20.1.jar"
+                 },
+                 {
                      "file":  "trashslot-forge-1.20.1-15.1.5.jar",
                      "name":  "trashslot-forge-1.20.1-15.1.5.jar",
                      "sha256":  "7f038937dffeebc3885d347c47622d504a562da0bcce7873c50f2753db0a3746",
@@ -771,6 +904,13 @@
                      "sha256":  "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e",
                      "size":  435496,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/watut-forge-1.20.1-1.2.3.jar"
+                 },
+                 {
+                     "file":  "Waves-1.20.1-1.6a.jar",
+                     "name":  "Waves-1.20.1-1.6a.jar",
+                     "sha256":  "ff9b60cb517103f27c31cec9c1c4e4304b6ef7901bfdfd36602cc112789c28bf",
+                     "size":  1337728,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Waves-1.20.1-1.6a.jar"
                  },
                  {
                      "file":  "waystones-forge-1.20.1-14.1.20.jar",
