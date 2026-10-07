@@ -1,5 +1,5 @@
 {
-    "generatedAt":  "2026-10-07T06:39:45.2803995-05:00",
+    "generatedAt":  "2026-10-07T10:32:54.9833212-05:00",
     "modCount":  135,
     "mods":  [
                  {
@@ -337,6 +337,13 @@
                      "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
                      "size":  1320675,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/embeddium-0.3.31+mc1.20.1.jar"
+                 },
+                 {
+                     "file":  "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+                     "name":  "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+                     "sha256":  "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14",
+                     "size":  680255,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
                  },
                  {
                      "file":  "entityculling-forge-1.10.5-mc1.20.1.jar",
@@ -750,13 +757,6 @@
                      "sha256":  "9ee0139ac0c2301c163d45c5e37111d4c581dd27f126417e6b6bec044df72011",
                      "size":  845086,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/puddleflood-1.1.5+1.20.1-forge.jar"
-                 },
-                 {
-                     "file":  "punchy-2.8a-forge-1.20.1.jar",
-                     "name":  "punchy-2.8a-forge-1.20.1.jar",
-                     "sha256":  "c1ac26d1e73e606b82d4e3227792cf90d27b3b0c0b8cf503d3a004a6075ad22a",
-                     "size":  1840242,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/punchy-2.8a-forge-1.20.1.jar"
                  },
                  {
                      "file":  "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
