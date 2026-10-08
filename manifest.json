@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-10-07T10:34:18.1372787-05:00",
-    "modCount":  136,
+    "generatedAt":  "2026-10-08T07:09:44.9133782-05:00",
+    "modCount":  132,
     "mods":  [
                  {
                      "file":  "advancedcompass.forge.1.20.1-1.2.15.jar",
@@ -269,13 +269,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar"
                  },
                  {
-                     "file":  "dimdoors-5.4.4-1.20.1-forge.jar",
-                     "name":  "dimdoors-5.4.4-1.20.1-forge.jar",
-                     "sha256":  "ee8193a36d07827e52d540a81d07460e3b47a0bda6366adef1873d9b02a83b52",
-                     "size":  17827316,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/dimdoors-5.4.4-1.20.1-forge.jar"
-                 },
-                 {
                      "file":  "DistantFriends-forge-1.20.1-0.5.6.jar",
                      "name":  "DistantFriends-forge-1.20.1-0.5.6.jar",
                      "sha256":  "5965acaf5e2ed24542777ff0ec309085332d6c9255903eddc644822a61e851cf",
@@ -491,13 +484,6 @@
                      "sha256":  "23710606b68c5367ef28d2efa55d8efc4a7d1df8ac1f232e4327977cd1a16b56",
                      "size":  20832,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/ItemBorders-1.20.1-forge-1.2.2.jar"
-                 },
-                 {
-                     "file":  "its_not_real-1.1.1.1.1.1.1.1.jar",
-                     "name":  "its_not_real-1.1.1.1.1.1.1.1.jar",
-                     "sha256":  "798ef47890cc5129114d795bbacb44f3b3fdb7acc471420effce670a20ca8eb9",
-                     "size":  64668030,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/its_not_real-1.1.1.1.1.1.1.1.jar"
                  },
                  {
                      "file":  "Jade-1.20.1-Forge-11.13.2.jar",
@@ -843,25 +829,11 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Terralith_1.20.x_v2.5.4.jar"
                  },
                  {
-                     "file":  "terrifying_freddy-1.0.2.jar",
-                     "name":  "terrifying_freddy-1.0.2.jar",
-                     "sha256":  "cfd23aeba0752fb023722d1f399647c3aedb27889a6a6e7e8e36e509e6b0c367",
-                     "size":  2311719,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/terrifying_freddy-1.0.2.jar"
-                 },
-                 {
                      "file":  "the_boy_and_the_bath-4.0.1-forge-1.20.1.jar",
                      "name":  "the_boy_and_the_bath-4.0.1-forge-1.20.1.jar",
                      "sha256":  "99161feaea2a1fba7b2a41584fc9eb9082a27484e634f3a23a6f72391bf2f020",
                      "size":  913118,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/the_boy_and_the_bath-4.0.1-forge-1.20.1.jar"
-                 },
-                 {
-                     "file":  "the_obsessed-1.5.2g-forge-1.20.1.jar",
-                     "name":  "the_obsessed-1.5.2g-forge-1.20.1.jar",
-                     "sha256":  "af31c86b4d544bbbb27537f6b9a173f1f9d0421be2df5013089aeae10b630aeb",
-                     "size":  3529151,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/the_obsessed-1.5.2g-forge-1.20.1.jar"
                  },
                  {
                      "file":  "trashslot-forge-1.20.1-15.1.5.jar",
