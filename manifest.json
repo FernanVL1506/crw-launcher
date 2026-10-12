@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-10-11T20:39:07.0333684-05:00",
-    "modCount":  126,
+    "generatedAt":  "2026-10-12T16:18:06.7908347-05:00",
+    "modCount":  128,
     "mods":  [
                  {
                      "file":  "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
@@ -339,6 +339,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/ferritecore-6.0.1-forge.jar"
                  },
                  {
+                     "file":  "Forgematica-0.1.13-mc1.20.1.jar",
+                     "name":  "Forgematica-0.1.13-mc1.20.1.jar",
+                     "sha256":  "d2c7c9c9075ee4bd6a60e75bfcb14ea397a054ec441029960fc6890f330e539f",
+                     "size":  997501,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Forgematica-0.1.13-mc1.20.1.jar"
+                 },
+                 {
                      "file":  "fragmentum-5.2.0+1.20.1-forge.jar",
                      "name":  "fragmentum-5.2.0+1.20.1-forge.jar",
                      "sha256":  "a003fedce92c52ef377e48fc3779cb2506be1ce7f947c88f1eb241b2992c16b4",
@@ -526,6 +533,13 @@
                      "sha256":  "4660197524c9198ca93b20999204881a007df452e3bd2151358ea6b844e86b3f",
                      "size":  163914,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/lootbeams-1.20.1-1.2.6.jar"
+                 },
+                 {
+                     "file":  "MaFgLib-0.1.14-mc1.20.1.jar",
+                     "name":  "MaFgLib-0.1.14-mc1.20.1.jar",
+                     "sha256":  "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1",
+                     "size":  521709,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/MaFgLib-0.1.14-mc1.20.1.jar"
                  },
                  {
                      "file":  "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
