@@ -1,14 +1,7 @@
 {
-    "generatedAt":  "2026-10-08T07:09:44.9133782-05:00",
-    "modCount":  132,
+    "generatedAt":  "2026-10-11T20:39:07.0333684-05:00",
+    "modCount":  126,
     "mods":  [
-                 {
-                     "file":  "advancedcompass.forge.1.20.1-1.2.15.jar",
-                     "name":  "advancedcompass.forge.1.20.1-1.2.15.jar",
-                     "sha256":  "844bf0444d9b02b18df59ccec12608a923418d4e639f4d601c72b0194b660ab3",
-                     "size":  496935,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/advancedcompass.forge.1.20.1-1.2.15.jar"
-                 },
                  {
                      "file":  "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
                      "name":  "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
@@ -29,13 +22,6 @@
                      "sha256":  "7b8e945da294b745e6aed9f88f28e232a767e032d7c2b8137a8ef36421d9fb33",
                      "size":  1187126,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/alltheleaks-1.1.1+1.20.1-forge.jar"
-                 },
-                 {
-                     "file":  "anomaly-2.1.0-forge-1.20.1.jar",
-                     "name":  "anomaly-2.1.0-forge-1.20.1.jar",
-                     "sha256":  "3079e9d9ca01e19da268e4c8b7069f4abc33ee39ae801d72432c31efcfd28a93",
-                     "size":  1573692,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/anomaly-2.1.0-forge-1.20.1.jar"
                  },
                  {
                      "file":  "appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -227,13 +213,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/curios-forge-5.14.1+1.20.1.jar"
                  },
                  {
-                     "file":  "CustomPlayerModels-1.20-0.6.27a.jar",
-                     "name":  "CustomPlayerModels-1.20-0.6.27a.jar",
-                     "sha256":  "f4964fb5b008eea1401853c6ba19a623b5fd6f10e3e14c77d686d999a0bb7c42",
-                     "size":  2805930,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/CustomPlayerModels-1.20-0.6.27a.jar"
-                 },
-                 {
                      "file":  "CustomSkinLoader_Universal-15.0.1.jar",
                      "name":  "CustomSkinLoader_Universal-15.0.1.jar",
                      "sha256":  "026d8b38ea93edccd647f60568193e79801a377b7bd4e916dcfc0d5482b767fc",
@@ -267,13 +246,6 @@
                      "sha256":  "c37d000c7440d2577fb4279fa0ead1d10d48cc78c28fa42258d70725f1a56f82",
                      "size":  62044,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar"
-                 },
-                 {
-                     "file":  "DistantFriends-forge-1.20.1-0.5.6.jar",
-                     "name":  "DistantFriends-forge-1.20.1-0.5.6.jar",
-                     "sha256":  "5965acaf5e2ed24542777ff0ec309085332d6c9255903eddc644822a61e851cf",
-                     "size":  52436,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/DistantFriends-forge-1.20.1-0.5.6.jar"
                  },
                  {
                      "file":  "Dungeon Crawl-1.20.1-2.3.15.jar",
@@ -563,13 +535,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
                  },
                  {
-                     "file":  "meteor_shower-0.0.4.2.jar",
-                     "name":  "meteor_shower-0.0.4.2.jar",
-                     "sha256":  "6f66e0f6fdbef823edaabd944ca626d5d492c4783d0664d8476e5eb7412754f0",
-                     "size":  252389,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/meteor_shower-0.0.4.2.jar"
-                 },
-                 {
                      "file":  "minecraft-comes-alive-7.6.15+1.20.1-universal.jar",
                      "name":  "minecraft-comes-alive-7.6.15+1.20.1-universal.jar",
                      "sha256":  "5a09c71c9e8c12887d802e623cb34a0809a38abc9667655b9b092d9f8386ebe1",
@@ -827,13 +792,6 @@
                      "sha256":  "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
                      "size":  3156901,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Terralith_1.20.x_v2.5.4.jar"
-                 },
-                 {
-                     "file":  "the_boy_and_the_bath-4.0.1-forge-1.20.1.jar",
-                     "name":  "the_boy_and_the_bath-4.0.1-forge-1.20.1.jar",
-                     "sha256":  "99161feaea2a1fba7b2a41584fc9eb9082a27484e634f3a23a6f72391bf2f020",
-                     "size":  913118,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/the_boy_and_the_bath-4.0.1-forge-1.20.1.jar"
                  },
                  {
                      "file":  "trashslot-forge-1.20.1-15.1.5.jar",
