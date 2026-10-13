@@ -1,5 +1,5 @@
 {
-    "generatedAt":  "2026-10-13T10:42:35.3744159-05:00",
+    "generatedAt":  "2026-10-13T10:55:49.2822390-05:00",
     "modCount":  132,
     "mods":  [
                  {
@@ -929,5 +929,13 @@
              ],
     "resourcepacks":  [
 
-                      ]
+                      ],
+    "files":  [
+                  {
+                      "path":  "kubejs/startup_scripts/casino_items.js",
+                      "sha256":  "cc30f0b4004baf4e738e26ca7a02a0adf23beeb4080fd76006e4daf7c54d485b",
+                      "size":  472,
+                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/kubejs/startup_scripts/casino_items.js"
+                  }
+              ]
 }
