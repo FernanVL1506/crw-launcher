@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-10-13T09:36:42.3539243-05:00",
-    "modCount":  129,
+    "generatedAt":  "2026-10-13T09:40:31.2091333-05:00",
+    "modCount":  130,
     "mods":  [
                  {
                      "file":  "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
@@ -540,6 +540,13 @@
                      "sha256":  "4660197524c9198ca93b20999204881a007df452e3bd2151358ea6b844e86b3f",
                      "size":  163914,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/lootbeams-1.20.1-1.2.6.jar"
+                 },
+                 {
+                     "file":  "Lucky77_1.20.1_v04.jar",
+                     "name":  "Lucky77_1.20.1_v04.jar",
+                     "sha256":  "dc3fd253e7bb2b4f8dc90aa27aa8c74176e49d46dcb26c6ca5c291c769201b98",
+                     "size":  231682,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Lucky77_1.20.1_v04.jar"
                  },
                  {
                      "file":  "MaFgLib-0.1.14-mc1.20.1.jar",
