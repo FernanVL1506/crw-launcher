@@ -1,5 +1,5 @@
 {
-    "generatedAt":  "2026-10-13T10:13:13.9989033-05:00",
+    "generatedAt":  "2026-10-13T10:42:35.3744159-05:00",
     "modCount":  132,
     "mods":  [
                  {
@@ -194,8 +194,8 @@
                  {
                      "file":  "CRWRecursos-1.2.0.jar",
                      "name":  "CRWRecursos-1.2.0.jar",
-                     "sha256":  "e98d379a316e72ffce4a6a65d0fde867e1c1d5aea845f1fe1f029aaabfb72e89",
-                     "size":  23250730,
+                     "sha256":  "5bb87200f44be203e191d02ba76c197b3f07030766ab2a52c6690b3e2b33f4a5",
+                     "size":  23252051,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/CRWRecursos-1.2.0.jar"
                  },
                  {
