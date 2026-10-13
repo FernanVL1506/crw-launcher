@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-10-13T09:40:31.2091333-05:00",
-    "modCount":  130,
+    "generatedAt":  "2026-10-13T10:13:13.9989033-05:00",
+    "modCount":  132,
     "mods":  [
                  {
                      "file":  "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
@@ -500,6 +500,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/kotlinforforge-4.12.0-all.jar"
                  },
                  {
+                     "file":  "kubejs-forge-2001.6.5-build.26.jar",
+                     "name":  "kubejs-forge-2001.6.5-build.26.jar",
+                     "sha256":  "1769312192fbf9d72f45054ba61130523bfb471b5f480a4bff8c210ec09400bb",
+                     "size":  1658792,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/kubejs-forge-2001.6.5-build.26.jar"
+                 },
+                 {
                      "file":  "L_Enders_Cataclysm-3.31.jar",
                      "name":  "L_Enders_Cataclysm-3.31.jar",
                      "sha256":  "c29dcf940168208517b72f2d9965828b106a6b94cbea55d5001558c69a27b362",
@@ -764,6 +771,13 @@
                      "sha256":  "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded",
                      "size":  136923,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/resourcefulconfig-forge-1.20.1-2.1.3.jar"
+                 },
+                 {
+                     "file":  "rhino-forge-2001.2.3-build.10.jar",
+                     "name":  "rhino-forge-2001.2.3-build.10.jar",
+                     "sha256":  "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6",
+                     "size":  1798244,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/rhino-forge-2001.2.3-build.10.jar"
                  },
                  {
                      "file":  "saintsdragons-0.9.85+forge-1.20.1.jar",
