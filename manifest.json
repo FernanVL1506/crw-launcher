@@ -1,6 +1,6 @@
 {
-    "generatedAt":  "2026-10-13T11:49:03.6149962-05:00",
-    "modCount":  132,
+    "generatedAt":  "2026-10-15T23:58:33.6515308-05:00",
+    "modCount":  141,
     "mods":  [
                  {
                      "file":  "AdvancedLootInfo-forge-1.20.1-1.12.0.jar",
@@ -73,6 +73,20 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/balm-forge-1.20.1-7.3.41-all.jar"
                  },
                  {
+                     "file":  "betterendcities-1.0.0-1.20.1.jar",
+                     "name":  "betterendcities-1.0.0-1.20.1.jar",
+                     "sha256":  "162853b270c7b47395704025f7e4e6ff2983c3e19fc6a806f0fc04ab6e422a29",
+                     "size":  81018,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/betterendcities-1.0.0-1.20.1.jar"
+                 },
+                 {
+                     "file":  "bfendcities-1.0.jar",
+                     "name":  "bfendcities-1.0.jar",
+                     "sha256":  "61954a07a1d82227d2291cf6318e891fcfd5552df107823230adfebba394d5a9",
+                     "size":  10743,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/bfendcities-1.0.jar"
+                 },
+                 {
                      "file":  "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
                      "name":  "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
                      "sha256":  "330f482487ac3135557b6e898d7e1ae5330321e9cfd5ba63e13a16cf2e8d8b98",
@@ -99,6 +113,13 @@
                      "sha256":  "41152bfac14637edbf3dd868e92c19a48c6c0a25513a2ecdada2366593c883c0",
                      "size":  1165189,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/blueprint-1.20.1-7.1.4.jar"
+                 },
+                 {
+                     "file":  "blueprint-1.20.1-7.1.5.jar",
+                     "name":  "blueprint-1.20.1-7.1.5.jar",
+                     "sha256":  "ab6782901ffb7b08b86325897fb3a2194e0fb1a346af316d74707101c36afb9f",
+                     "size":  1160817,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/blueprint-1.20.1-7.1.5.jar"
                  },
                  {
                      "file":  "boiled_reimagined-1.0.12-forge-1.20.1.jar",
@@ -248,13 +269,6 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/deltaboxlib-forge-2.2.0+1.20.1.jar"
                  },
                  {
-                     "file":  "Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar",
-                     "name":  "Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar",
-                     "sha256":  "c37d000c7440d2577fb4279fa0ead1d10d48cc78c28fa42258d70725f1a56f82",
-                     "size":  62044,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar"
-                 },
-                 {
                      "file":  "Dungeon Crawl-1.20.1-2.3.15.jar",
                      "name":  "Dungeon Crawl-1.20.1-2.3.15.jar",
                      "sha256":  "71e1b8ceaf20c3102ae42ef2761ca47f30fe4cbd20ecbb687df2ce75d1785514",
@@ -304,6 +318,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/EasyMagic-v8.0.1-1.20.1-Forge.jar"
                  },
                  {
+                     "file":  "echoes_of_the_end__structures Forge Fabric 1.20.1 -12.00.13.jar",
+                     "name":  "echoes_of_the_end__structures Forge Fabric 1.20.1 -12.00.13.jar",
+                     "sha256":  "1020e7d17d893517ec8045dd91676ae7b204040adba0383a046fe7c6ff16e7e8",
+                     "size":  269171,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/echoes_of_the_end__structures Forge Fabric 1.20.1 -12.00.13.jar"
+                 },
+                 {
                      "file":  "embeddium-0.3.31+mc1.20.1.jar",
                      "name":  "embeddium-0.3.31+mc1.20.1.jar",
                      "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
@@ -330,13 +351,6 @@
                      "sha256":  "aea3fd8c2b2b8cbcf522ae47d392af67d3f60ded48d4ebf0270e2a99f85b431a",
                      "size":  97476,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/explosiveenhancement-1.2.0.jar"
-                 },
-                 {
-                     "file":  "FarmersDelight-1.20.1-1.2.11.jar",
-                     "name":  "FarmersDelight-1.20.1-1.2.11.jar",
-                     "sha256":  "9a2db05541f07e15a81d514f4f47627f1c738d0464c1885765aa460117909318",
-                     "size":  2963127,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/FarmersDelight-1.20.1-1.2.11.jar"
                  },
                  {
                      "file":  "ferritecore-6.0.1-forge.jar",
@@ -584,6 +598,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/modernfix-forge-5.27.83+mc1.20.1.jar"
                  },
                  {
+                     "file":  "mofus_better_end_-alpha-1.0.0-forge-1.20.1.jar",
+                     "name":  "mofus_better_end_-alpha-1.0.0-forge-1.20.1.jar",
+                     "sha256":  "cfd7655d470118c3f5270404e235c4b3ac8bd39e073d8d6e7965d215d0ac2f13",
+                     "size":  63141322,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/mofus_better_end_-alpha-1.0.0-forge-1.20.1.jar"
+                 },
+                 {
                      "file":  "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
                      "name":  "moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar",
                      "sha256":  "284e25e4b216bebf6aa2b3859bad7c0f47aa23281e658f0725484f994f85eac4",
@@ -598,11 +619,25 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/moogs_structures-1.20-1.20.4-3.0.2-forge.jar"
                  },
                  {
+                     "file":  "MoogsEndStructures-universal-1.20-2.1.0.jar",
+                     "name":  "MoogsEndStructures-universal-1.20-2.1.0.jar",
+                     "sha256":  "6d5c7f2a8773b96d00d8292e08b00ca7d32f2503be5151cf4f59e1871f57394f",
+                     "size":  2546120,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/MoogsEndStructures-universal-1.20-2.1.0.jar"
+                 },
+                 {
                      "file":  "MoogsNetherStructures-1.20-2.0.2.jar",
                      "name":  "MoogsNetherStructures-1.20-2.0.2.jar",
                      "sha256":  "47654996f272b25c8f46f02f01d7dcfdf71dddaaf8752e0b180a7ead55283fc0",
                      "size":  1323432,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/MoogsNetherStructures-1.20-2.0.2.jar"
+                 },
+                 {
+                     "file":  "MoogsStructureLib-forge-1.20-3.4.2.jar",
+                     "name":  "MoogsStructureLib-forge-1.20-3.4.2.jar",
+                     "sha256":  "e608ce2e206b5cca513ab1b79a5eba40237e65d910998118041277909d5488b9",
+                     "size":  1089534,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/MoogsStructureLib-forge-1.20-3.4.2.jar"
                  },
                  {
                      "file":  "MoogsVoyagerStructures-1.20-5.0.4.jar",
@@ -780,11 +815,11 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/rhino-forge-2001.2.3-build.10.jar"
                  },
                  {
-                     "file":  "saintsdragons-0.9.85+forge-1.20.1.jar",
-                     "name":  "saintsdragons-0.9.85+forge-1.20.1.jar",
-                     "sha256":  "273270d87ca86e62d23eb80aebd1749af7ee03839a6f91cec202162cbd0f6415",
-                     "size":  29434672,
-                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/saintsdragons-0.9.85+forge-1.20.1.jar"
+                     "file":  "saintsdragons-0.9.88+forge-1.20.1.jar",
+                     "name":  "saintsdragons-0.9.88+forge-1.20.1.jar",
+                     "sha256":  "289f353515928b888dda0eebd2a67da0c0ebaacdd317f5f27b1548ea7ba9fdd5",
+                     "size":  29546843,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/saintsdragons-0.9.88+forge-1.20.1.jar"
                  },
                  {
                      "file":  "smoothgui-forge-2.0.7+mc1.20.1.jar",
@@ -836,6 +871,13 @@
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/Terralith_1.20.x_v2.5.4.jar"
                  },
                  {
+                     "file":  "TheOuterEnd-1.0.13.jar",
+                     "name":  "TheOuterEnd-1.0.13.jar",
+                     "sha256":  "f3e375be84c9e84d6ea7d3679635424d536c59d80c49cf5d669abbcd1b3f8b73",
+                     "size":  14375300,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/TheOuterEnd-1.0.13.jar"
+                 },
+                 {
                      "file":  "trashslot-forge-1.20.1-15.1.5.jar",
                      "name":  "trashslot-forge-1.20.1-15.1.5.jar",
                      "sha256":  "7f038937dffeebc3885d347c47622d504a562da0bcce7873c50f2753db0a3746",
@@ -848,6 +890,13 @@
                      "sha256":  "11e756e477b66eafc3cf1ce49ad40462281b2bb114950981b4d9bcd1133d48c4",
                      "size":  308180,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/travelertoolbelt-forge-1.20.1-1.0.4.jar"
+                 },
+                 {
+                     "file":  "tru.e-ending-v1.1.0c.jar",
+                     "name":  "tru.e-ending-v1.1.0c.jar",
+                     "sha256":  "3bf63a4ed7cb9a75727da2301fe0642ce74c9e0384cdb79e9b3570d3ab320aaa",
+                     "size":  5525883,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/tru.e-ending-v1.1.0c.jar"
                  },
                  {
                      "file":  "unusualprehistory-1.5.0.3.jar",
@@ -925,6 +974,20 @@
                      "sha256":  "cc20a74887923eecf5b614ffbf5a58e6c749d98a657003bde4a77d04212dee0d",
                      "size":  1421224,
                      "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/xaeroworldmap-forge-1.20.1-1.44.2.jar"
+                 },
+                 {
+                     "file":  "YungsApi-1.20-Forge-4.0.6.jar",
+                     "name":  "YungsApi-1.20-Forge-4.0.6.jar",
+                     "sha256":  "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
+                     "size":  370524,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/YungsApi-1.20-Forge-4.0.6.jar"
+                 },
+                 {
+                     "file":  "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+                     "name":  "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+                     "sha256":  "05c2f43a67116f0bbca32d903b55ce1655b9319ed6554080de02bd1d0c232a83",
+                     "size":  387111,
+                     "url":  "https://raw.githubusercontent.com/FernanVL1506/crw-launcher/main/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
                  }
              ],
     "resourcepacks":  [
